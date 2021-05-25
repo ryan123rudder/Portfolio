@@ -9,10 +9,13 @@ General Projects
 Game Design
 - Proton
         - This game was a project for a middle school class. It is an educational math learning game, and was the first game I published
+        - https://cipherixstudios.itch.io/proton
 - Personal Space
         - This game was made in 72 hours from scratch for Ludum Dare 42. The theme was "Running out of Space" and I created the art and programming for it.
+        - https://cipherixstudios.itch.io/personal-space
 - Leap of Faith
         - This was also created for Ludum Dare, in collaberation with my girlfriend. She created the graphics and I programmed the game.
+        - https://cipherixstudios.itch.io/leap-of-faith
 - Project Solis
         - Currently under development, Project Solis is a larger and longer game being made in collaberation with my girlfriend and another friend of mine, who will be developing the story.
 
